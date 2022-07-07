@@ -49,7 +49,7 @@ body {
     margin-left: 25px;
 }
 
-
+/* Settings for a element */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -101,7 +101,7 @@ p {
     background-color: #2589bd;
 }
 
-
+/* settings for benefitinfo class */
 .benefitinfo{
     margin-bottom: 32px;
     color: #ffffff;
