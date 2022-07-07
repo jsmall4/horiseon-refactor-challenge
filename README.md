@@ -26,7 +26,7 @@ The code now has a more semantic HTML structure, allowing the reader to follow a
 
 # GIT & Live URL:
 
-To follow ****** TO DO
+https://jsmall4.github.io/horiseon-refactor-challenge/
 
 # Screenshot: 
 
