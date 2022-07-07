@@ -102,48 +102,25 @@ p {
 }
 
 
-.benefit-cost,
-.benefit-brand,
-.benefit-lead {
+.benefitinfo{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefit-brand,
-.benefit-cost,
-.benefit-lead h3 {
+.benefitinfo h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
-/* when grouping these 3 together, it didn't work. Why? 
-Can it not be grouped, as its moving each element seperatley
-*/
-.benefit-lead img {
+.benefitinfo img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
 
 /* Settings for content boxes - size, font & colour */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.sectioninfo {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,36 +129,14 @@ Can it not be grouped, as its moving each element seperatley
     color: #ffffff;
 }
 
-/* same applies */ 
-.search-engine-optimization img {
+.sectioninfo img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/* ---------------------------------- */
-
-.search-engine-optimization h2 {
+.sectioninfo h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
 
 /* Settings for footer */
 .footer {
